@@ -2,7 +2,7 @@
 
 package com.polarion.demo;
 
-public class Example {
+public class Example { //@wi TRAI-5
     
     public static void main(String[] args) {
         Book myFirstBook = new Book("The C Programming Language", "Kernighan & Ritchie", "Jackson", 1996);
